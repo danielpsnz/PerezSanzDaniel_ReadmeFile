@@ -1,8 +1,8 @@
 
-  # PerezSanzDaniel_ReadmeFile 
+  # This is the title 
   
   ## Description
-    In this project I introduce a real-world application to node.js. The aim is to generate a readme file. 
+    This is the description
 
   ## Table of Contents
   - [Installation](#installation)
@@ -13,10 +13,10 @@
   - [Details](#details)
 
   ## Installation
-  Packages required to run this program are: You can use this using node.js
+  Packages required to run this program are: These are packages of your project
   
   ## Usage
-  Examples of how to use this program: To generate a readme file
+  Examples of how to use this program: This is an example of an application
 
   ## License
   MIT
@@ -25,14 +25,14 @@
   To test, run the following command: N/A
 
   ## Contributors
-  danielpsnz
+  contributors
 
   ## Contact
   
-![Badge](https://img.shields.io/badge/Github-danielpsnz-4cbbb9) 
+![Badge](https://img.shields.io/badge/Github-username-4cbbb9) 
   
-![Profile Image](https://github.com/danielpsnz.png?size=50)
+![Profile Image](https://github.com/username.png?size=50)
   
-View the project in GitHub at: N/A
+View the project in GitHub at: This is the URL of the project
   
-If you have any questions, contact the author directly at dpdaniperezsanz@gmail.com.
+If you have any questions, contact the author directly at email@gmail.com.
