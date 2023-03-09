@@ -1,10 +1,12 @@
 
   # README file generator 
 
-  
+  ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
   
   ## Description
-    This is the challenge of the week 11, it uses node js to create a readme file generator. The readme file you are reading is created with this application. 
+    This is the challenge of the week 11, it uses node js to create a readme file generator. The readme file you are reading is created with this application. You can see a video of how to use it:
+    
+    ![Demo](Demo.mov)
 
   ## Table of Contents
   - [Installation](#installation)
